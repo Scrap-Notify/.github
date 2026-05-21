@@ -196,36 +196,36 @@ AI 지식 카드 생성
 <table>
   <tr>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/유다현.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/유다현.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>유다현</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/김다희.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/김다희.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>김다희</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/박준아.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/박준아.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>박준아</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/권예지.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/권예지.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>권예지</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/이강희.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/이강희.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>이강희</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/방승재.jpg" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/방승재.jpg" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>방승재</b>
     </td>
     <td align="center" width="130">
-      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/이준영.png" width="100" height="100" style="border-radius: 50%;" /><br />
+      <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/members/이준영.png" width="100" height="100" style="width:100px; height:100px; object-fit:cover; border-radius:50%;" /><br />
       <b>이준영</b>
     </td>
   </tr>
   <tr>
-    <td align="center">Backend</td>
+    <td align="center">Fullstack</td>
     <td align="center">Backend</td>
     <td align="center">Backend</td>
     <td align="center">Fullstack</td>
@@ -286,42 +286,63 @@ AI 지식 카드 생성
 
 ## 🖥️ 화면 구성
 
-### 1. 익스텐션 기반 지식 수집
+### 로그인
 
-브라우저에서 드래그한 텍스트, 현재 페이지 링크, 화면 캡처를 확장 프로그램으로 바로 저장합니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/extension_guest_tutorial.gif" width="180" /> | **익스텐션 비회원 튜토리얼**<br/>비회원 사용자가 익스텐션 사용 흐름을 이해할 수 있도록 안내합니다. |
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/extension_first_user_tutorial.gif" width="180" /> | **익스텐션 첫 회원 튜토리얼**<br/>첫 로그인 사용자가 지식 수집과 저장 흐름을 자연스럽게 시작할 수 있도록 안내합니다. |
 
-> GIF 준비 중
+---
 
-### 2. 나의 지식 숲 대시보드
+### 지식 숲
 
-수집한 지식 카드와 학습 흐름을 한눈에 볼 수 있는 메인 홈입니다.  
-지식이 쌓일수록 나무처럼 성장하는 시각적 경험을 제공합니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/main.png" width="360" /> | **메인 대시보드**<br/>수집한 지식 카드와 학습 흐름을 한눈에 확인할 수 있는 메인 홈입니다. |
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/archive.png" width="360" /> | **아카이브**<br/>저장된 지식 카드를 모아보고 다시 탐색할 수 있는 공간입니다. |
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/detail.gif" width="360" /> | **지식 카드 상세보기**<br/>AI가 요약·태깅한 지식 카드의 상세 내용을 확인할 수 있습니다. |
 
-> GIF 준비 중
+---
 
-### 3. TIL + 커밋 기반 학습 기록
+### 익스텐션 기반 지식 수집
 
-오늘 학습한 내용을 기반으로 AI가 자동으로 TIL로 작성하고, GitHub 커밋과 연결해 학습 흐름을 Markdown 기록으로 남깁니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/sidepanel_scrap.gif" width="360" /> | **사이드패널 스크랩**<br/>브라우저에서 드래그한 텍스트, 현재 페이지 링크, 화면 캡처를 확장 프로그램으로 바로 저장합니다. |
 
-> GIF 준비 중
+---
 
-### 4. GitHub Star 기반 컨텍스트 불러오기
+### GitHub 기반 학습 컨텍스트
 
-사용자의 GitHub Star 레포지토리를 분석해 관심 기술 스택과 학습 컨텍스트를 불러옵니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/github.png" width="360" /> | **GitHub 연동**<br/>GitHub 계정과 연결해 커밋 기반 학습 기록을 불러옵니다. |
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/star.png" width="360" /> | **GitHub Star 분석**<br/>사용자의 GitHub Star 레포지토리를 분석해 관심 기술 스택과 학습 컨텍스트를 불러옵니다. |
 
-> GIF 준비 중
+---
 
-### 5. AI 지식 카드
+### TIL 학습 기록
 
-수집한 자료와 학습 기록을 AI가 요약·태깅해 재사용 가능한 지식 카드로 정리합니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/TIL.png" width="360" /> | **TIL 자동 생성**<br/>오늘 학습한 내용을 AI가 자동으로 TIL 형태로 정리하고 Markdown 기록으로 남깁니다. |
 
-> GIF 준비 중
+---
 
-### 6. 하루 1회 학습 리콜
+### 학습 리콜 / 퀴즈
 
-사용자가 설정한 시간에 맞추어 전날 학습한 내용을 다시 보여주며 학습 흐름을 이어갑니다.
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/quiz.png" width="360" /> | **학습 리콜 퀴즈**<br/>이전에 학습한 내용을 퀴즈 형태로 복습하며 기억을 강화합니다. |
 
-> GIF 준비 중
+---
+
+### 마이페이지
+
+| 화면 | 설명 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/Scrap-Notify/docs/main/assets/screenshots/profile.png" width="360" /> | **마이 프로필**<br/>사용자의 학습 기록, 단축키 설정, 리콜 알림 설정, GitHub 연동 정보를 확인할 수 있습니다. |
 
 
 ---
